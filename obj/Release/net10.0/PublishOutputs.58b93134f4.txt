@@ -1,0 +1,7 @@
+/Users/olawaleabosede/Desktop/MyDockerWebApp/bin/Release/net10.0/publish/MyDockerWebApp
+/Users/olawaleabosede/Desktop/MyDockerWebApp/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/olawaleabosede/Desktop/MyDockerWebApp/bin/Release/net10.0/publish/appsettings.json
+/Users/olawaleabosede/Desktop/MyDockerWebApp/bin/Release/net10.0/publish/MyDockerWebApp.dll
+/Users/olawaleabosede/Desktop/MyDockerWebApp/bin/Release/net10.0/publish/MyDockerWebApp.deps.json
+/Users/olawaleabosede/Desktop/MyDockerWebApp/bin/Release/net10.0/publish/MyDockerWebApp.runtimeconfig.json
+/Users/olawaleabosede/Desktop/MyDockerWebApp/bin/Release/net10.0/publish/MyDockerWebApp.pdb
